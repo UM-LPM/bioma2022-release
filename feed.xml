@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BIOMA 2022 | All info about conference</title>
+    <description>TThe 10th International Conference on Bioinspired Optimization Methods and Their Applications</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 18 Jan 2023 12:38:47 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Jan 2023 12:38:47 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>BIOMA 2022&lt;small&gt;&lt;br/&gt; The 10th International Conference on Bioinspired Optimization Methods and Their Applications&lt;/small&gt;</title>
+        <description>&lt;p&gt;Welcome to the conference&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Oct 2021 01:00:00 +0000</pubDate>
+        <link>/MainPost/</link>
+        <guid isPermaLink="true">/MainPost/</guid>
+        
+        <category>none</category>
+        
+        <category>none</category>
+      </item>
+    
+      <item>
+        <title>About BIOMA Conference</title>
+        <description>&lt;p&gt;BIOMA is a key conference focusing on bioinspired optimization methods and their applications. This international conference provides an opportunity for the global research community in bioinspired optimization to discuss recent research results and develop new ideas and collaborations in a friendly and relaxed atmosphere. [&lt;a href=&quot;../BIOMA2022-CFP_v2.pdf&quot;&gt;Call for papers&lt;/a&gt;] [&lt;a href=&quot;http://bioma.ijs.si/&quot;&gt;More info&lt;/a&gt;]&lt;/p&gt; &lt;h2 id=&quot;conference-topics&quot;&gt;Conference Topics&lt;/h2&gt; &lt;p&gt;BIOMA 2022 welcomes papers covering all aspects of bioinspired optimization research, such as new algorithmic developments, high-impact applications, new research challenges, theoretical developments, implementation issues, and experimental studies. Papers addressing real-world applications are especially welcome. Areas of interest include:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;evolutionary computation&lt;/li&gt; &lt;li&gt;swarm intelligence&lt;/li&gt; &lt;li&gt;neural computation&lt;/li&gt;...</description>
+        <pubDate>Mon, 18 Oct 2021 20:00:00 +0000</pubDate>
+        <link>/AboutConference/</link>
+        <guid isPermaLink="true">/AboutConference/</guid>
+        
+        <category>welcome</category>
+        
+        <category>welcome</category>
+      </item>
+    
+      <item>
+        <title>Conference Venue</title>
+        <description>&lt;p&gt;BIOMA 2022 will be hosted by the &lt;a href=&quot;https://bioma2022.um.si/AboutHostLocation/&quot;&gt;University of Maribor, Faculty of Electrical Engineering and Computer Science&lt;/a&gt;, Slovenia. The faculty is located in the old city center of Maribor, on the bank of the Drava river. The central &lt;a href=&quot;https://www.visitmaribor.si/en/what-to-do/transports/6303-&quot;&gt;railway station&lt;/a&gt; and &lt;a href=&quot;https://www.visitmaribor.si/en/what-to-do/transports/6309-&quot;&gt;bus station&lt;/a&gt; are within walking distance of 2km from the venue. Besides public transportation, there are also many &lt;a href=&quot;https://www.visitmaribor.si/en/information/around-maribor/by-taxi/&quot;&gt;taxi services&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;For accommodation tips, look at the following &lt;a href=&quot;https://bioma2022.um.si/Accommodation/&quot;&gt;website&lt;/a&gt;.&lt;/p&gt; &lt;h2 id=&quot;event-location&quot;&gt;Event Location&lt;/h2&gt; &lt;p&gt;University of Maribor&lt;br /&gt; Faculty of Electrical Engineering and Computer Science&lt;br /&gt; Koroška cesta 46, SI-2000 Maribor, SLOVENIA&lt;/p&gt; &lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot;...</description>
+        <pubDate>Mon, 18 Oct 2021 19:50:00 +0000</pubDate>
+        <link>/ConferenceVenue/</link>
+        <guid isPermaLink="true">/ConferenceVenue/</guid>
+        
+        <category>welcome</category>
+        
+        <category>welcome</category>
+      </item>
+    
+      <item>
+        <title>Program</title>
+        <description>&lt;h3 id=&quot;17-november-2022&quot;&gt;17 November 2022&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th style=&quot;text-align: center&quot;&gt;Time&lt;/th&gt; &lt;th style=&quot;text-align: left&quot;&gt;Event&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td style=&quot;text-align: center&quot;&gt;08:30&lt;/td&gt; &lt;td style=&quot;text-align: left&quot;&gt;Registration&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td style=&quot;text-align: center&quot;&gt;09:00&lt;/td&gt; &lt;td style=&quot;text-align: left&quot;&gt;Opening&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td style=&quot;text-align: center&quot;&gt;09:00&lt;/td&gt; &lt;td style=&quot;text-align: left&quot;&gt;&lt;b&gt;Keynote Lecture&lt;/b&gt;&lt;br /&gt; Shih-Hsi Liu: &lt;i&gt;Is a Comparison of Metaheuristics on Whole Convergence Graphs More Helpful?&lt;/i&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td style=&quot;text-align: center&quot;&gt;10:00&lt;/td&gt; &lt;td style=&quot;text-align: left&quot;&gt;&lt;b&gt;Session I - Algorithm Behavior Analyses (Chair: Marjan Mernik)&lt;/b&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td style=&quot;text-align: center&quot;&gt;10:00&lt;/td&gt; &lt;td style=&quot;text-align: left&quot;&gt;Ana Nikolikj, Ryan Dieter Lang, Andries Petrus Engelbrecht, Peter Korošec, Tome Eftimov: &lt;i&gt;Explaining Differential Evolution Performance Through Problem Landscape Characteristics&lt;i&gt;&lt;/i&gt;&lt;/i&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td...</description>
+        <pubDate>Mon, 18 Oct 2021 19:30:00 +0000</pubDate>
+        <link>/Program/</link>
+        <guid isPermaLink="true">/Program/</guid>
+        
+        <category>welcome</category>
+        
+        <category>info</category>
+        
+        <category>info</category>
+      </item>
+    
+      <item>
+        <title>Photos</title>
+        <description>&lt;h3 id=&quot;17-november-2022&quot;&gt;17 November 2022&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos1.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos2.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos3.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos4.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos5.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos6.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos7.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos8.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos9.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos10.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos11.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos12.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos13.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos14.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos15.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos16.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos17.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos18.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos19.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos21.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos22.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos23.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos24.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/photos25.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt;...</description>
+        <pubDate>Mon, 18 Oct 2021 19:25:00 +0000</pubDate>
+        <link>/Photos/</link>
+        <guid isPermaLink="true">/Photos/</guid>
+        
+        <category>welcome</category>
+        
+        <category>info</category>
+        
+        <category>info</category>
+      </item>
+    
+      <item>
+        <title>Keynote Speakers</title>
+        <description>&lt;h1 align=&quot;center&quot; id=&quot;carola-doerr&quot;&gt;Carola Doerr&lt;/h1&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/post/DoerrCarola.png&quot; alt=&quot;Carola Doerr&quot; /&gt;&lt;/p&gt; &lt;p style=&quot;text-align: center;&quot;&gt;Sorbonne Université, France&lt;/p&gt; &lt;p style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Title:&lt;/b&gt; Surfing at the Interface between Theory and Practice in Evolutionary Computation&lt;/p&gt; &lt;p style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Abstract:&lt;/b&gt; Understanding evolutionary computation approaches by theoretical means is a challenging task. Problems and algorithms that can be rigorously analyzed are typically not representative of those encountered in practice. We will discuss why it is nevertheless rewarding to study EC methods by mathematical means and how research at the interface between theory, benchmarking, and practical applications helps us obtain a much more complete understanding for which algorithmic ideas to favor...</description>
+        <pubDate>Mon, 18 Oct 2021 19:00:00 +0000</pubDate>
+        <link>/Speakers/</link>
+        <guid isPermaLink="true">/Speakers/</guid>
+        
+        <category>welcome</category>
+        
+        <category>info</category>
+        
+        <category>info</category>
+      </item>
+    
+      <item>
+        <title>Registration</title>
+        <description>&lt;p&gt;Each accepted paper has to be accompanied with a regular registration fee by the deadline and presented at the conference by one of the authors.&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th style=&quot;text-align: left&quot;&gt;Registration fee&lt;/th&gt; &lt;th style=&quot;text-align: center&quot;&gt;till 31 August 2022&lt;/th&gt; &lt;th style=&quot;text-align: center&quot;&gt;after 31 August 2022&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td style=&quot;text-align: left&quot;&gt;regular&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;350 EUR&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;400 EUR&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td style=&quot;text-align: left&quot;&gt;student (with valid ID)&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;250 EUR&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;300 EUR&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td style=&quot;text-align: left&quot;&gt;accompanying person&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;50 EUR&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;50 EUR&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2 id=&quot;registration-form&quot;&gt;Registration Form&lt;/h2&gt; &lt;p&gt;Please, fill in the &lt;a...</description>
+        <pubDate>Mon, 18 Oct 2021 18:00:00 +0000</pubDate>
+        <link>/Registration/</link>
+        <guid isPermaLink="true">/Registration/</guid>
+        
+        <category>welcome</category>
+        
+        <category>info</category>
+        
+        <category>info</category>
+      </item>
+    
+      <item>
+        <title>Accommodation</title>
+        <description>&lt;h2 id=&quot;accommodation&quot;&gt;Accommodation&lt;/h2&gt; &lt;p&gt;To help you decide where to stay, we recommend the following nearby hotels.&lt;/p&gt; &lt;h3 id=&quot;s-hotel&quot;&gt;S Hotel&lt;/h3&gt; &lt;p&gt;It is located in the city center, closest to the venue, within walking distance of 100m. Reservations via &lt;a href=&quot;mailto:info@shotel.si&quot;&gt;e-mail&lt;/a&gt; or &lt;a href=&quot;http://www.en.shotel.si/&quot;&gt;website&lt;/a&gt;.&lt;/p&gt; &lt;h3 id=&quot;hotel-maribor&quot;&gt;Hotel Maribor&lt;/h3&gt; &lt;p&gt;It is located in the city center, within walking distance of 500m from the venue. Reservations via &lt;a href=&quot;mailto:info@hotelmaribor.si&quot;&gt;e-mail&lt;/a&gt; or &lt;a href=&quot;https://www.hotelmaribor.si/en/&quot;&gt;website&lt;/a&gt;.&lt;/p&gt; &lt;h3 id=&quot;hotel-city-maribor&quot;&gt;Hotel City Maribor&lt;/h3&gt; &lt;p&gt;It is located in the city center, within walking distance of the venue, 1000m. Reservations via &lt;a href=&quot;mailto:info@hotelcitymb.si&quot;&gt;e-mail&lt;/a&gt; or &lt;a href=&quot;https://www.hotelcitymb.si/en/&quot;&gt;website&lt;/a&gt;.&lt;/p&gt; &lt;h3 id=&quot;hotel-orel&quot;&gt;Hotel Orel&lt;/h3&gt; &lt;p&gt;Located in the city center, within...</description>
+        <pubDate>Mon, 18 Oct 2021 17:00:00 +0000</pubDate>
+        <link>/Accommodation/</link>
+        <guid isPermaLink="true">/Accommodation/</guid>
+        
+        <category>welcome</category>
+        
+        <category>info</category>
+        
+        <category>info</category>
+      </item>
+    
+      <item>
+        <title>Important Dates</title>
+        <description>&lt;h2 id=&quot;important-dates&quot;&gt;Important Dates&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Paper submission: &lt;del&gt;15 May 2022&lt;/del&gt; &lt;strong&gt;20 June 2022 (deadline extended)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Notification of acceptance: &lt;strong&gt;29 July 2022&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Camera-ready papers: &lt;strong&gt;31 August 2022&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Registration fee payment deadline: &lt;strong&gt;3 October 2022&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Conference start: &lt;strong&gt;17 November 2022&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 18 Oct 2021 15:00:00 +0000</pubDate>
+        <link>/ImportantDates/</link>
+        <guid isPermaLink="true">/ImportantDates/</guid>
+        
+        <category>dates</category>
+        
+        <category>info</category>
+        
+        <category>info</category>
+      </item>
+    
+      <item>
+        <title>Committees</title>
+        <description>&lt;h2 id=&quot;general-chair&quot;&gt;General Chair&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Marjan Mernik, University of Maribor, Slovenia&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;program-chairs&quot;&gt;Program Chairs&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Matej Črepinšek, University of Maribor, Slovenia&lt;/li&gt; &lt;li&gt;Tome Eftimov, Jožef Stefan Institute, Slovenia&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;organizing-committee&quot;&gt;Organizing Committee&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Tomaž Kosar, &lt;strong&gt;Chair&lt;/strong&gt;, University of Maribor, Slovenia&lt;/li&gt; &lt;li&gt;Mario Casar, University of Maribor, Slovenia&lt;/li&gt; &lt;li&gt;Dragana Ostojić, University of Maribor, Slovenia&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;steering-committee&quot;&gt;Steering Committee&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Bogdan Filipič, Jožef Stefan Institute, Slovenia&lt;/li&gt; &lt;li&gt;Edmondo Minisci, University of Strathclyde, UK&lt;/li&gt; &lt;li&gt;Gregor Papa, Jožef Stefan Institute, Slovenia&lt;/li&gt; &lt;li&gt;Jurij Šilc, Jožef Stefan Institute, Slovenia&lt;/li&gt; &lt;li&gt;El-Ghazali Talbi, University of Lille, France&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;program-committee&quot;&gt;Program Committee&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Mehmet Emin Aydin, UWE Bristol, UK&lt;/li&gt; &lt;li&gt;Dražen Bajer, Josip...</description>
+        <pubDate>Mon, 18 Oct 2021 14:00:00 +0000</pubDate>
+        <link>/Committees/</link>
+        <guid isPermaLink="true">/Committees/</guid>
+        
+        <category>welcome</category>
+        
+        <category>info</category>
+        
+        <category>info</category>
+      </item>
+    
+      <item>
+        <title>Author Guidelines</title>
+        <description>&lt;h2 id=&quot;paper-submission&quot;&gt;Paper Submission&lt;/h2&gt; &lt;p&gt;Full papers in English not exceeding 15 pages (including references) are invited. Submissions are expected in PDF format through &lt;a href=&quot;https://easychair.org/conferences/?conf=bioma2022&quot;&gt;EasyChair&lt;/a&gt;. All submissions will be peer-reviewed by three members of the international Program Committee.&lt;/p&gt; &lt;h2 id=&quot;author-instructions&quot;&gt;Author Instructions&lt;/h2&gt; &lt;p&gt;Authors should consult Springer’s &lt;a href=&quot;../Springer_Instructions_for_Authors_of_Proceedings_CS.pdf&quot;&gt;authors’ guidelines&lt;/a&gt; and use the proceedings templates, either for &lt;a href=&quot;https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v1&quot;&gt;LaTeX&lt;/a&gt; or &lt;a href=&quot;https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1&quot;&gt;Word&lt;/a&gt;, for the preparation of their papers. Springer encourages authors to include their &lt;a href=&quot;https://goo.gl/hbsa4D&quot;&gt;ORCIDs&lt;/a&gt; in the papers. LaTeX templates for Springer’s proceedings are also available in &lt;a href=&quot;https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi&quot;&gt;Overleaf&lt;/a&gt;.&lt;/p&gt; &lt;h2 id=&quot;proceedings&quot;&gt;Proceedings&lt;/h2&gt; &lt;p&gt;The proceedings will be published in the &lt;a href=&quot;https://www.springer.com/gp/computer-science/lncs&quot;&gt;Springer Lectures Notes...</description>
+        <pubDate>Mon, 18 Oct 2021 13:00:00 +0000</pubDate>
+        <link>/AuthorGuidelines/</link>
+        <guid isPermaLink="true">/AuthorGuidelines/</guid>
+        
+        <category>dates</category>
+        
+        <category>info</category>
+        
+        <category>info</category>
+      </item>
+    
+      <item>
+        <title>About Host</title>
+        <description>&lt;p&gt;University of Maribor,
+Faculty of Electrical Engineering and Computer Science
+Koroška cesta 46, SI-2000 Maribor, Slovenia&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://feri.um.si/en/&quot;&gt;More info&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+        <link>/AboutHostLocation/</link>
+        <guid isPermaLink="true">/AboutHostLocation/</guid>
+        
+        <category>welcome</category>
+        
+        <category>welcome</category>
+      </item>
+    
+  </channel>
+</rss>
